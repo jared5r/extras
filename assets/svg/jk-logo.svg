@@ -1,0 +1,66 @@
+<svg width="150" height="100" viewBox="0 0 39.68775 26.4585" id="svg8" version="1.1" sodipodi:docname="logo.svg" inkscape:version="1.1 (c68e22c387, 2021-05-23)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+  <defs id="defs275">
+    <linearGradient inkscape:collect="always" id="linearGradient3386">
+      <stop style="stop-color:#008a61;stop-opacity:1;" offset="0" id="stop3382"/>
+      <stop style="stop-color:#0e4c80;stop-opacity:1" offset="1" id="stop3384"/>
+    </linearGradient>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3386" id="linearGradient3454" gradientUnits="userSpaceOnUse" x1="4.1899624" y1="24.858982" x2="11.77169" y2="15.95798"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3386" id="linearGradient3526" x1="11.209048" y1="16.66692" x2="7.0235543" y2="25.837261" gradientUnits="userSpaceOnUse"/>
+    <linearGradient inkscape:collect="always" xlink:href="#linearGradient3386" id="linearGradient4154" x1="9.4819098" y1="25.917315" x2="19.99287" y2="18.34972" gradientUnits="userSpaceOnUse"/>
+  </defs>
+  <sodipodi:namedview id="namedview273" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" showgrid="false" inkscape:zoom="2.425" inkscape:cx="3.5051546" inkscape:cy="99.793814" inkscape:window-width="1366" inkscape:window-height="731" inkscape:window-x="3840" inkscape:window-y="0" inkscape:window-maximized="1" inkscape:current-layer="svg8" width="150px"/>
+  <style id="style254">#wave1 {
+      stroke-dasharray: 177;
+      stroke-dashoffset: 177;
+      animation: dash 13s linear forwards infinite;
+    }
+
+    #wave2 {
+      stroke-dasharray: 177;
+      stroke-dashoffset: 177;
+      animation: dash 13s linear .125s forwards infinite;
+    }
+
+    #wave3 {
+      stroke-dasharray: 177;
+      stroke-dashoffset: 177;
+      animation: dash 13s linear .25s forwards infinite;
+    }
+
+    @keyframes dash{
+      0%{
+        stroke-dashoffset: 177;
+      }
+      1%{
+        stroke-dashoffset: 177;
+      }
+      20%{
+        stroke-dashoffset: 0;
+      }
+      99.9%{
+        stroke-dashoffset: 0;
+      }
+      100%{
+        stroke-dashoffset: 177;
+      }
+    }
+
+  </style>
+  <g id="g4340" transform="matrix(0.58529941,0,0,0.58529941,5.1161433,-1.6303213)">
+    <path d="m 27.333,45.545 c -5.019,-0.646 -9.749,-3.31 -12.901,-7.27 -3.233,-4.057 -4.764,-9.429 -4.158,-14.581 0.605,-5.153 3.341,-10.023 7.427,-13.22 4.085,-3.198 9.47,-4.684 14.617,-4.034 5.147,0.65 9.993,3.426 13.156,7.539" id="wave1" fill="none" stroke="#7a4a89" stroke-width="1.323" stroke-linecap="round" style="stroke:url(#linearGradient4154)"/>
+    <path id="wave2" d="M 24.687,45.017 C 19.668,44.37 14.938,41.705 11.786,37.747 8.553,33.688 7.022,28.317 7.628,23.164 8.234,18.012 10.969,13.142 15.055,9.944 19.141,6.747 24.525,5.261 29.672,5.91 c 5.147,0.65 9.993,3.427 13.156,7.54" fill="none" stroke="#0074d9" stroke-width="1.323" stroke-linecap="round" style="fill:none;fill-opacity:1;stroke:url(#linearGradient3526)"/>
+    <path d="M 22.042,44.487 C 17.022,43.841 12.292,41.176 9.14,37.217 5.908,33.159 4.376,27.787 4.982,22.635 5.588,17.482 8.324,12.613 12.409,9.415 c 4.086,-3.198 9.47,-4.683 14.617,-4.034 5.148,0.65 9.994,3.427 13.157,7.54" id="wave3" fill="none" stroke="#038911" stroke-width="1.323" stroke-linecap="round" style="fill:none;fill-opacity:0;stroke:url(#linearGradient3454);stroke-opacity:1"/>
+    <text style="line-height:1.25;-inkscape-font-specification:sans-serif" x="58.035" y="32.341988" id="text4511" font-weight="400" font-size="10.583px" font-family="sans-serif" letter-spacing="0" word-spacing="0" stroke-width="0.265"/>
+  </g>
+  <!-- <g
+     aria-label="JK"
+     id="text7945"
+     style="font-size:20.392px;line-height:1.25;font-family:'Merriweather Sans';Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';stroke-width:0.509797">
+    <path
+       d="m 15.357935,8.9316992 v -1.42744 h 5.974856 v 8.5646398 q 0,0.897248 -0.20392,1.692536 -0.183528,0.795288 -0.672936,1.386656 -0.469016,0.570976 -1.284696,0.91764 -0.795288,0.326272 -2.018808,0.326272 -1.22352,0 -2.059592,-0.346664 -0.836072,-0.346664 -1.22352,-0.672936 l 0.672936,-1.366264 q 0.387448,0.285488 1.0196,0.61176 0.652544,0.326272 1.509008,0.326272 1.305088,0 1.93724,-0.693328 0.652544,-0.693328 0.652544,-2.34508 V 8.9316992 Z"
+       id="path19" />
+    <path
+       d="m 32.548352,7.5042592 q -0.999208,1.488616 -2.202336,2.9568398 -1.182736,1.468224 -2.569392,2.936448 0.652544,0.550584 1.386656,1.284696 0.734112,0.734112 1.42744,1.610968 0.71372,0.856464 1.32548,1.83528 0.632152,0.978816 1.060384,1.998416 h -1.896456 q -0.5098,-0.938032 -1.101168,-1.83528 -0.591368,-0.897248 -1.264304,-1.672144 -0.652544,-0.774896 -1.366264,-1.407048 -0.693328,-0.652544 -1.407048,-1.12156 v 6.036032 H 24.2692 V 7.5042592 h 1.672144 v 5.6281918 q 1.32548,-1.366264 2.528608,-2.85488 1.22352,-1.4886158 2.14116,-2.7733118 z"
+       id="path21" />
+  </g> -->
+</svg>
